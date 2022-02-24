@@ -1,11 +1,11 @@
 # citygml2papermodel
-Unfolding of textured CityGML buildings to paper models
+**Unfolding of textured CityGML buildings to paper models**
 
 Created by Steffen Goebbels on 11.02.2022, iPattern Institute, Faculty of Electrical Engineering and Computer Science, Niederrhein University of Applied Sciences, Krefeld, Germany, steffen.goebbels@hsnr.de
 
 The algorithm is described in the paper
 
-Steffen Goebbels, Regina Pohle-Froehlich: Automatic Unfolding of CityGML Buildings to Paper Models. Geographies 1 (3), 2021, pp. 333–345, https://doi.org/10.3390/geographies1030018
+**Steffen Goebbels, Regina Pohle-Froehlich: Automatic Unfolding of CityGML Buildings to Paper Models. Geographies 1 (3), 2021, pp. 333–345, https://doi.org/10.3390/geographies1030018**
 
 You can use and modify this program without any restrictions if you cite this paper. The code comes without any warranty or liability, use at your own risk.
 
